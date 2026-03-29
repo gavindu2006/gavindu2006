@@ -36,16 +36,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=gavindu2006&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=gavindu2006&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavindu2006&layout=compact&theme=tokyonight)
 
 ---
 
 ## ⚡ Activity Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavindu2006&theme=tokyo-night)
 
 ---
 
