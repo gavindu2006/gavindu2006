@@ -26,7 +26,7 @@
 
 ## 🌐 Connect With Me
 - 💬 Discord: gavindu2006
-- 📧 Email: gavindukavishka.yt@gmail.com
+- 📧 Email: gavindu2006@outlook.com
 - 🌐 Website: [Gavindu Kavishka](https://gavindu2006.pages.dev)
 
 
