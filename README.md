@@ -28,9 +28,6 @@ My goal is to keep learning, gain practical experience, and build useful project
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge\&logo=raspberrypi\&logoColor=C51A4A)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git\&logoColor=F05032)
 ![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge\&logo=cisco\&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-black?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
-![Web Technologies](https://img.shields.io/badge/Web%20Technologies-black?style=for-the-badge\&logo=googlechrome\&logoColor=4285F4)
-
 
 ---
 
