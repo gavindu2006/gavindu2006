@@ -2,13 +2,13 @@
 
 ### Student · Tech Enthusiast · Self-Learner
 
-I’m Gavindu Kavishka, a technology-focused student with a strong interest in programming, web development, embedded systems, networking, and modern technologies.
+<p>I’m Gavindu Kavishka, a technology-focused student with a strong interest in programming, web development, embedded systems, networking, and modern technologies.
 
 I enjoy building practical projects, experimenting with different technologies, and turning ideas into working solutions. I’m especially interested in learning how systems work and solving real-world technical problems.
 
 I continuously develop my skills through hands-on learning, personal projects, experimentation, and exploring new tools and technologies. I’m currently focused on improving my knowledge in software development, web technologies, Linux, networking and embedded systems.
 
-My goal is to keep learning, gain practical experience, and build useful projects while developing a strong technical foundation for my future career in technology. I believe consistent learning and hands-on experience are the best ways to grow.
+My goal is to keep learning, gain practical experience, and build useful projects while developing a strong technical foundation for my future career in technology. I believe consistent learning and hands-on experience are the best ways to grow.</p>
 
 ---
 
@@ -27,6 +27,10 @@ My goal is to keep learning, gain practical experience, and build useful project
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge\&logo=espressif\&logoColor=E7352C)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge\&logo=raspberrypi\&logoColor=C51A4A)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git\&logoColor=F05032)
+![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-black?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Web Technologies](https://img.shields.io/badge/Web%20Technologies-black?style=for-the-badge\&logo=googlechrome\&logoColor=4285F4)
+
 
 ---
 
