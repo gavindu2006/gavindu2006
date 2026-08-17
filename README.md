@@ -2,6 +2,14 @@
 
 ### Student · Tech Enthusiast · Self-Learner
 
+I’m Gavindu Kavishka, a technology-focused student with a strong interest in programming, web development, embedded systems, networking, and modern technologies.
+
+I enjoy building practical projects, experimenting with different technologies, and turning ideas into working solutions. I’m especially interested in learning how systems work and solving real-world technical problems.
+
+I continuously develop my skills through hands-on learning, personal projects, experimentation, and exploring new tools and technologies. I’m currently focused on improving my knowledge in software development, web technologies, Linux, networking and embedded systems.
+
+My goal is to keep learning, gain practical experience, and build useful projects while developing a strong technical foundation for my future career in technology. I believe consistent learning and hands-on experience are the best ways to grow.
+
 ---
 
 ## 🧠 About Me
@@ -14,23 +22,11 @@
 ---
 
 ## 🧰 Tech Stack
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-black?style=for-the-badge&logo=arduino)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-<img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=blue" /> 
-<img src="https://img.shields.io/badge/ESP32-181818?style=for-the-badge&logo=espressif&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Raspberry%20Pi-181818?style=for-the-badge&logo=raspberrypi&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=white" />
-
----
-
-## 📚 Learning
-
-I'm continuously exploring new areas of technology and improving through practical projects.
-
-### Currently interested in:
-
-**Linux · Networking · Embedded Systems · IoT · Self-Hosting · Web Development**
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge\&logo=arduino\&logoColor=00979D)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge\&logo=espressif\&logoColor=E7352C)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge\&logo=raspberrypi\&logoColor=C51A4A)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git\&logoColor=F05032)
 
 ---
 
