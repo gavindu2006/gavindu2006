@@ -42,4 +42,5 @@ My goal is to keep learning, gain practical experience, and build useful project
 - 📧 Email: gavindu2006@outlook.com
 - 🌐 Website: [Gavindu Kavishka](https://gavindu2006.pages.dev)
 
-
+---
+<p align="center"><sub>Learn · Experiment · Build</sub></p>
