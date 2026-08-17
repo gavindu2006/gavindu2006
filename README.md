@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-black?style=for-the-badge&logo=arduino)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-<img src="https://img.shields.io/badge/Arduino-181818?style=for-the-badge&logo=arduino&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=blue" /> 
 <img src="https://img.shields.io/badge/ESP32-181818?style=for-the-badge&logo=espressif&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Raspberry%20Pi-181818?style=for-the-badge&logo=raspberrypi&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=white" />
