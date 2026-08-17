@@ -2,13 +2,13 @@
 
 ### Student · Tech Enthusiast · Self-Learner
 
-<p>I’m Gavindu Kavishka, a technology-focused student with a strong interest in programming, web development, embedded systems, networking, and modern technologies.
+I’m **Gavindu Kavishka**, a technology-focused student interested in **software development, web technologies, embedded systems, networking, Linux, and modern technologies**.
 
-I enjoy building practical projects, experimenting with different technologies, and turning ideas into working solutions. I’m especially interested in learning how systems work and solving real-world technical problems.
+I enjoy **building practical projects, experimenting with new technologies, and turning ideas into working solutions**. I’m particularly interested in understanding how systems work and solving technical problems through hands-on experience.
 
-I continuously develop my skills through hands-on learning, personal projects, experimentation, and exploring new tools and technologies. I’m currently focused on improving my knowledge in software development, web technologies, Linux, networking and embedded systems.
+I’m continuously developing my skills through **personal projects, experimentation, and self-directed learning**, with a current focus on **software development, web technologies, Linux, networking, and embedded systems**.
 
-My goal is to keep learning, gain practical experience, and build useful projects while developing a strong technical foundation for my future career in technology. I believe consistent learning and hands-on experience are the best ways to grow.</p>
+My goal is to **keep learning, gain practical experience, and build useful projects** while developing a strong technical foundation for my future in technology.
 
 ---
 
